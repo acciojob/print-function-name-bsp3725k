@@ -1,8 +1,4 @@
-//your JS code here. If required.
-
-let input = prompt("write functionName");
-let finalval = input..slice(0, -3);
-alert(finalval);
-
-
-
+function functionName() {
+    alert("functionName");
+}
+functionName();
